@@ -1,2 +1,1 @@
-# datasciencecoursera
 repo course project
